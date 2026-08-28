@@ -55,10 +55,9 @@ st.set_page_config(
 # ============================================================
 
 HERO_IMAGE = "static/women.png"
-MAIN_LOGO = "static/logos/main_logo.png"
-EMERGENCY_LOGO = "static/logos/emergency_logo.png"
-APP_ICON = "static/logos/app_icon.png"
-
+MAIN_LOGO = "logos/main_logo.png"
+EMERGENCY_LOGO = "logos/emergency_logo.png"
+APP_ICON = "logos/app_icon.png"
 MODEL_PATH = "models/risk_prediction_model.pkl"
 
 
