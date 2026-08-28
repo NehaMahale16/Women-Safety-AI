@@ -1,0 +1,10 @@
+streamlit
+twilio
+pandas
+numpy
+scikit-learn
+joblib
+opencv-python-headless
+streamlit-geolocation
+Pillow
+SpeechRecognition
